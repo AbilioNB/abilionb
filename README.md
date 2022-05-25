@@ -2,7 +2,6 @@
 
 
 ### Olá, sou Abílio Nogueira e esse é meu perfil 👋
-Here are some ideas to get you started:
 
 - 🔭 Atualmente trabalho em projetos ligados a educação e dados.
 - 🌱 Focando na área de engenharia de dados.
